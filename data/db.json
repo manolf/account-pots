@@ -1,0 +1,271 @@
+{
+  "accounts": [
+    {
+      "balance": 1450,
+      "name": "Bildung und Spass",
+      "einzahlung": 170,
+      "active": true,
+      "id": 1
+    },
+    {
+      "balance": 2860,
+      "name": "Spenden",
+      "einzahlung": 170,
+      "active": true,
+      "id": 2
+    },
+    {
+      "balance": 4840,
+      "name": "große Anschaffungen",
+      "einzahlung": 260,
+      "active": true,
+      "id": 3
+    },
+    {
+      "balance": 11750,
+      "name": "investment",
+      "einzahlung": 250,
+      "active": false,
+      "id": 4
+    },
+    {
+      "balance": 4000,
+      "name": "Reserve",
+      "einzahlung": 400,
+      "id": 5,
+      "active": true
+    },
+    {
+      "balance": 500,
+      "name": "donationTest",
+      "einzahlung": 400,
+      "active": false,
+      "id": "12"
+    },
+    {
+      "balance": 3600,
+      "name": "yep",
+      "einzahlung": 400,
+      "id": "13"
+    },
+    {
+      "balance": 11563,
+      "name": "investmentDos",
+      "id": "14"
+    },
+    {
+      "balance": 800,
+      "name": "test",
+      "einzahlung": 400,
+      "id": "6"
+    }
+  ],
+  "logs": [
+    {
+      "logId": 1,
+      "date": "2024-01-15",
+      "fromId": 0,
+      "toId": 3,
+      "betrag": 170,
+      "betreff": "plus",
+      "id": "19c9"
+    },
+    {
+      "id": "4125",
+      "logId": 2,
+      "fromId": 0,
+      "toId": "2",
+      "date": "2024-03-20 18:03:53",
+      "betrag": 170,
+      "betreff": "monatliche Einzahlung"
+    },
+    {
+      "id": "1855",
+      "logId": 3,
+      "fromId": 0,
+      "toId": "3",
+      "date": "2024-03-20 18:03:53",
+      "betrag": 260,
+      "betreff": "monatliche Einzahlung"
+    },
+    {
+      "id": "89a1",
+      "logId": 4,
+      "fromId": 0,
+      "toId": "6",
+      "date": "2024-04-20 12:43:31",
+      "betrag": "11",
+      "betreff": "monatliche Einzahlung"
+    },
+    {
+      "id": "1aa6",
+      "logId": null,
+      "fromId": "1",
+      "toId": 0,
+      "date": "2024-04-20 15:01:44",
+      "betrag": "4000",
+      "betreff": "Überweisung für PJM"
+    },
+    {
+      "id": "4ac9",
+      "logId": 5,
+      "fromId": 0,
+      "toId": "14",
+      "date": "2024-04-20 15:02:34",
+      "betrag": 255,
+      "betreff": "monatliche Einzahlung"
+    },
+    {
+      "id": "0a0e",
+      "logId": 6,
+      "fromId": 0,
+      "toId": "1",
+      "date": "2024-05-05 21:20:02",
+      "betrag": 170,
+      "betreff": "monatliche Einzahlung"
+    },
+    {
+      "id": "37d9",
+      "logId": 7,
+      "fromId": 0,
+      "toId": "2",
+      "date": "2024-05-05 21:20:02",
+      "betrag": 170,
+      "betreff": "monatliche Einzahlung"
+    },
+    {
+      "id": "1368",
+      "logId": 8,
+      "fromId": 0,
+      "toId": "3",
+      "date": "2024-05-05 21:20:02",
+      "betrag": 260,
+      "betreff": "monatliche Einzahlung"
+    },
+    {
+      "id": "f2af",
+      "logId": 9,
+      "fromId": 0,
+      "toId": "4",
+      "date": "2024-05-05 21:20:02",
+      "betrag": 250,
+      "betreff": "monatliche Einzahlung"
+    },
+    {
+      "id": "7980",
+      "logId": 10,
+      "fromId": 0,
+      "toId": "1",
+      "date": "2024-06-12 11:18:08",
+      "betrag": 170,
+      "betreff": "monatliche Einzahlung: Juni"
+    },
+    {
+      "id": "6658",
+      "logId": 11,
+      "fromId": 0,
+      "toId": "2",
+      "date": "2024-06-12 11:18:08",
+      "betrag": 170,
+      "betreff": "monatliche Einzahlung: Juni"
+    },
+    {
+      "id": "b140",
+      "logId": 12,
+      "fromId": 0,
+      "toId": "3",
+      "date": "2024-06-12 11:18:08",
+      "betrag": 260,
+      "betreff": "monatliche Einzahlung: Juni"
+    },
+    {
+      "id": "43b1",
+      "logId": 13,
+      "fromId": 0,
+      "toId": "4",
+      "date": "2024-06-12 11:18:08",
+      "betrag": 250,
+      "betreff": "monatliche Einzahlung: Juni"
+    },
+    {
+      "id": "bef9",
+      "logId": 14,
+      "fromId": 0,
+      "toId": "4",
+      "date": "2024-06-12 12:37:14",
+      "betrag": 250,
+      "betreff": "monatliche Einzahlung: Juni"
+    },
+    {
+      "id": "f219",
+      "logId": 15,
+      "fromId": 0,
+      "toId": "3",
+      "date": "2024-06-12 12:37:14",
+      "betrag": 260,
+      "betreff": "monatliche Einzahlung: Juni"
+    },
+    {
+      "id": "c15f",
+      "logId": 16,
+      "fromId": 0,
+      "toId": "2",
+      "date": "2024-06-12 12:37:14",
+      "betrag": 170,
+      "betreff": "monatliche Einzahlung: Juni"
+    },
+    {
+      "id": "9e6d",
+      "logId": 17,
+      "fromId": 0,
+      "toId": "1",
+      "date": "2024-06-12 12:37:14",
+      "betrag": 170,
+      "betreff": "monatliche Einzahlung: Juni"
+    },
+    {
+      "id": "5720",
+      "logId": 18,
+      "fromId": 0,
+      "toId": "6",
+      "date": "2024-06-12 16:18:16",
+      "betrag": "11",
+      "betreff": "monatliche Einzahlung: Juni"
+    },
+    {
+      "id": "124c",
+      "logId": 19,
+      "fromId": 0,
+      "toId": "6",
+      "date": "2024-06-12 16:34:35",
+      "betreff": "monatliche Einzahlung: Juni"
+    },
+    {
+      "id": "0de5",
+      "logId": 20,
+      "fromId": 0,
+      "toId": "14",
+      "date": "2024-06-12 16:38:39",
+      "betrag": 255,
+      "betreff": "monatliche Einzahlung: Juni"
+    },
+    {
+      "id": "e5c9",
+      "logId": 21,
+      "fromId": 0,
+      "toId": "13",
+      "date": "2024-06-12 16:45:12",
+      "betrag": "600",
+      "betreff": "monatliche Einzahlung: Juni"
+    },
+    {
+      "id": "6adb",
+      "logId": 22,
+      "fromId": 0,
+      "toId": "6",
+      "date": "2024-06-12 16:53:48",
+      "betrag": 400,
+      "betreff": "monatliche Einzahlung: Juni"
+    }
+  ]
+}

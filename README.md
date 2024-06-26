@@ -1,4 +1,4 @@
-# fake-api
+# account-pots
 
 ## Project setup
 ```
